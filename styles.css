@@ -1,0 +1,10 @@
+body{
+    background-color: hsl(47, 88%, 63%);
+}
+.main-container{
+    background-color: white;
+    border-radius: 25px;
+    padding: 25px;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    border: 3px solid rgb(0, 0, 0);
+}
